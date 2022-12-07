@@ -14,7 +14,7 @@
     "socket.io": "^2.3.0"
   },
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "socket.io-mqtt": "^0.1.0"
   }
 }
